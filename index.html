@@ -12,6 +12,14 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <!-- Loading Screen -->
+    <div id="ns-loader" class="ns-loader">
+        <div class="loader-content">
+            <h1>NS <span>Sport</span></h1>
+            <div class="spinner"></div>
+        </div>
+    </div>
+
     <div class="floating-buttons-container">
         <a href="tel:7061975082" class="floating-btn floating-call" aria-label="Call Now">
             <i class="fas fa-phone-alt"></i>
@@ -26,6 +34,7 @@
         <div class="container nav-container">
             <a href="index.html" class="logo">NS <span>Sport</span></a>
             <ul class="nav-links">
+                <div class="close-menu" id="close-menu-btn"><i class="fas fa-times"></i></div>
                 <li><a href="#home" data-i18n="nav_home">Home</a></li>
                 <li><a href="#categories" data-i18n="nav_categories">Categories</a></li>
                 <li><a href="#combo-offers" data-i18n="nav_products">Products</a></li>
@@ -221,6 +230,23 @@
         </div>
     </section>
 
+    <!-- Owner Message Section -->
+    <section id="owner-message" class="owner-message section">
+        <div class="container owner-container">
+            <div class="owner-photo">
+                <img src="https://placehold.co/400x400/141414/FFC107?text=Owner+Photo" alt="NS Sport Owner" class="owner-img">
+            </div>
+            <div class="owner-content">
+                <h2 data-i18n="owner_title">A Message From NS Sport</h2>
+                <p class="owner-text" data-i18n="owner_text">Cricket is more than a game for us. We started NS Sport with the goal of providing quality cricket gear at fair prices. Whether you're a beginner or an experienced player, we're here to help you find the right equipment.</p>
+                <div class="owner-note">
+                    <i class="fab fa-whatsapp"></i>
+                    <p data-i18n="owner_note">If you need help choosing the right bat, call or WhatsApp us anytime. We're happy to guide you before ordering.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <!-- FAQ Section -->
     <section id="faq" class="faq section bg-alt">
         <div class="container">
@@ -386,7 +412,10 @@
     <!-- Product Detail Modal -->
     <div id="product-detail-modal" class="modal">
         <div class="modal-content" style="max-width: 1000px; padding: 20px;">
-            <span class="close-detail-modal close-modal-btn">&times;</span>
+            <div class="modal-header-mobile">
+                <button class="btn btn-outline close-modal-btn back-btn-mobile"><i class="fas fa-arrow-left"></i> Back</button>
+            </div>
+            <span class="close-detail-modal close-modal-btn desktop-close">&times;</span>
             <div id="product-detail-container" class="product-detail-grid">
                 <!-- Javascript will inject content here -->
             </div>

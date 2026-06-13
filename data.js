@@ -14,7 +14,7 @@ const products = [
         badge: "Best Seller",
         size: "SH (Short Handle)",
         weight: "1160g - 1200g",
-        description: "Top grade English willow for professional tournaments. Massive sweet spot and incredible balance. Handcrafted to perfection for extreme power hitting.",
+        description: "We handpick these English Willow bats for players who want serious power in tournaments. The sweet spot on this one is massive. Not sure about the weight? Send us a WhatsApp and we'll help you pick.",
         images: [
             "assets/english_willow_bat_1780413220671.png",
             "assets/images/english-willow-front.jpg",
@@ -29,7 +29,7 @@ const products = [
             name: "NS Sport इंग्लिश विलो बैट",
             size: "SH (शॉर्ट हैंडल)",
             weight: "1160g - 1200g",
-            description: "पेशेवर टूर्नामेंट के लिए टॉप ग्रेड इंग्लिश विलो। विशाल स्वीट स्पॉट और अविश्वसनीय संतुलन। अत्यधिक शक्ति हिटिंग के लिए पूर्णता से दस्तकारी की गई।"
+            description: "हम इन इंग्लिश विलो बैट को उन खिलाड़ियों के लिए चुनते हैं जो टूर्नामेंट में गंभीर शक्ति चाहते हैं। इसका स्वीट स्पॉट बहुत बड़ा है। वजन के बारे में निश्चित नहीं हैं? हमें WhatsApp करें और हम आपकी मदद करेंगे।"
         }
     },
     {
@@ -45,7 +45,7 @@ const products = [
         badge: "Top Rated",
         size: "SH (Short Handle)",
         weight: "1180g - 1220g",
-        description: "Premium Kashmir willow perfect for club matches and net practice. Durable and powerful with a comfortable cane handle.",
+        description: "A solid, dependable Kashmir willow that’s perfect for weekend club matches or heavy net sessions. We’ve tested the cane handle ourselves—it feels great.",
         images: [
             "assets/kashmir_willow_bat_1780413241395.png",
             "assets/images/kashmir-willow-front.jpg",
@@ -59,7 +59,7 @@ const products = [
             name: "NS Sport कश्मीर विलो बैट",
             size: "SH (शॉर्ट हैंडल)",
             weight: "1180g - 1220g",
-            description: "क्लब मैचों और नेट प्रैक्टिस के लिए उपयुक्त प्रीमियम कश्मीर विलो। आरामदायक केन हैंडल के साथ टिकाऊ और शक्तिशाली।"
+            description: "एक ठोस, भरोसेमंद कश्मीर विलो जो सप्ताहांत क्लब मैचों या भारी नेट सत्रों के लिए एकदम सही है। हमने खुद केन हैंडल का परीक्षण किया है—यह बहुत अच्छा लगता है।"
         }
     },
     {
@@ -75,7 +75,7 @@ const products = [
         badge: "Best Seller",
         size: "Full Size",
         weight: "950g - 1050g",
-        description: "Lightweight design engineered specifically for heavy tennis ball cricket. Quick bat swing and supreme maneuverability.",
+        description: "If you play heavy tennis ball cricket, this is exactly what you need. It's light enough for quick swings but thick enough to clear the boundary easily.",
         images: [
             "assets/tennis_ball_bat_1780413257812.png",
             "assets/images/tennis-bat-front.jpg",
@@ -88,7 +88,7 @@ const products = [
             name: "NS Sport टेनिस बॉल बैट",
             size: "पूर्ण आकार",
             weight: "950g - 1050g",
-            description: "विशेष रूप से भारी टेनिस बॉल क्रिकेट के लिए तैयार किया गया हल्का डिज़ाइन। त्वरित बैट स्विंग और सर्वोच्च गतिशीलता।"
+            description: "यदि आप भारी टेनिस बॉल क्रिकेट खेलते हैं, तो आपको बिल्कुल इसी की आवश्यकता है। यह त्वरित स्विंग के लिए काफी हल्का है लेकिन बाउंड्री पार करने के लिए काफी मोटा है।"
         }
     },
     {
@@ -104,7 +104,7 @@ const products = [
         badge: "New Arrival",
         size: "Size 3 / Size 4",
         weight: "Ultra Light",
-        description: "The perfect starter bat for young champions. Lightweight, easy to handle, and beautifully crafted with a colorful grip.",
+        description: "We know how important a kid's first bat is. This one is ultra-light so they can learn proper shots without straining. Call us if you need help choosing the right size.",
         images: [
             "assets/kids_cricket_bat_1780413274301.png",
             "assets/images/kids-bat-front.jpg",
@@ -116,7 +116,7 @@ const products = [
             name: "NS Sport किड्स बैट",
             size: "साइज 3 / साइज 4",
             weight: "अल्ट्रा लाइट",
-            description: "युवा चैंपियनों के लिए एकदम सही शुरुआती बैट। हल्का, संभालने में आसान और रंगीन ग्रिप के साथ खूबसूरती से तैयार किया गया।"
+            description: "हम जानते हैं कि बच्चे का पहला बैट कितना महत्वपूर्ण होता है। यह अल्ट्रा-लाइट है ताकि वे बिना तनाव के सही शॉट सीख सकें। यदि आपको सही आकार चुनने में सहायता चाहिए तो हमें कॉल करें।"
         }
     },
     {
@@ -132,7 +132,7 @@ const products = [
         badge: "Top Rated",
         size: "Universal Fit",
         weight: "150g",
-        description: "High-quality padded bat cover to protect your weapon from scratches and moisture. Features an adjustable strap.",
+        description: "Don't let moisture ruin your bat. We always recommend keeping your gear in a padded cover like this one. It's simple, tough, and gets the job done.",
         images: [
             "assets/images/bat-cover-main.jpg",
             "assets/images/bat-cover-open.jpg",
@@ -144,7 +144,7 @@ const products = [
             name: "NS प्रीमियम पैडेड बैट कवर",
             size: "यूनिवर्सल फिट",
             weight: "150g",
-            description: "खरोंच और नमी से आपके हथियार को बचाने के लिए उच्च गुणवत्ता वाला गद्देदार बैट कवर। एक समायोज्य पट्टा सुविधाएँ।"
+            description: "नमी को अपना बैट खराब न करने दें। हम हमेशा अपने गियर को इस तरह के पैडेड कवर में रखने की सलाह देते हैं। यह सरल, सख्त है और अपना काम बखूबी करता है।"
         }
     },
     {
@@ -160,7 +160,7 @@ const products = [
         badge: "New Arrival",
         size: "Mens / Youth",
         weight: "200g pair",
-        description: "Ergonomic batting gloves with high-density foam protection, sheep leather palm, and maximum ventilation.",
+        description: "These gloves are a favorite among our local club players. They offer great protection without feeling stiff. Your hands will thank you after a long innings.",
         images: [
             "assets/images/gloves-main.jpg",
             "assets/images/gloves-palm.jpg",
@@ -172,7 +172,7 @@ const products = [
             name: "NS प्रो बैटिंग ग्लव्स",
             size: "पुरुष / युवा",
             weight: "200g जोड़ी",
-            description: "उच्च घनत्व फोम संरक्षण, भेड़ के चमड़े की हथेली और अधिकतम वेंटिलेशन के साथ एर्गोनोमिक बैटिंग दस्ताने।"
+            description: "ये दस्ताने हमारे स्थानीय क्लब खिलाड़ियों के बीच पसंदीदा हैं। वे बिना कठोर महसूस किए शानदार सुरक्षा प्रदान करते हैं। लंबी पारी के बाद आपके हाथ आपको धन्यवाद देंगे।"
         }
     },
     {
@@ -188,7 +188,7 @@ const products = [
         badge: "Top Rated",
         size: "Mens Large",
         weight: "450g pair",
-        description: "Professional wicket keeping gloves with octopus grip rubber facing and padded inner lining for ultimate catching control.",
+        description: "Good keeping gloves are hard to find at a fair price. We stock these because the octopus grip inside actually works, making those tough catches stick.",
         images: [
             "assets/images/wk-main.jpg",
             "assets/images/wk-palm.jpg",
@@ -200,7 +200,7 @@ const products = [
             name: "NS एलीट कीपिंग ग्लव्स",
             size: "पुरुष बड़ा",
             weight: "450g जोड़ी",
-            description: "ऑक्टोपस ग्रिप रबर फेसिंग और परम कैचिंग कंट्रोल के लिए पैडेड इनर लाइनिंग के साथ पेशेवर विकेट कीपिंग दस्ताने।"
+            description: "उचित मूल्य पर अच्छे कीपिंग दस्ताने मिलना मुश्किल है। हम इन्हें इसलिए रखते हैं क्योंकि अंदर की ऑक्टोपस ग्रिप वास्तव में काम करती है, जिससे कैच आसानी से पकड़े जाते हैं।"
         }
     },
     {
@@ -216,7 +216,7 @@ const products = [
         badge: "Best Seller",
         size: "Standard",
         weight: "Varies",
-        description: "Complete accessories pack including bat grips, grip cone, bat tape, mallet, and linseed oil.",
+        description: "Everything you need to maintain your bat in one bag. We put this kit together because players kept asking us for grip cones and oil. It's a lifesaver.",
         images: [
             "assets/images/acc-kit-main.jpg",
             "assets/images/acc-kit-items.jpg"
@@ -227,7 +227,7 @@ const products = [
             name: "NS मास्टर एक्सेसरीज़ किट",
             size: "मानक",
             weight: "विभिन्न",
-            description: "बैट ग्रिप्स, ग्रिप कोन, बैट टेप, मैलेट और अलसी के तेल सहित पूर्ण एक्सेसरीज़ पैक।"
+            description: "एक बैग में अपने बैट को बनाए रखने के लिए आवश्यक सब कुछ। हमने इस किट को एक साथ रखा क्योंकि खिलाड़ी हमसे ग्रिप कोन और तेल मांगते रहे। यह बहुत उपयोगी है।"
         }
     },
     // COMBO OFFERS
@@ -244,7 +244,7 @@ const products = [
         badge: "Best Seller",
         size: "SH + Universal",
         weight: "1350g total",
-        description: "Get our premium Kashmir Willow Bat and the Premium Padded Bat Cover at an unbeatable combo price. Perfect for players looking for quality and protection.",
+        description: "A bat needs a cover, so we bundled our popular Kashmir Willow with a padded cover to save you some money. Great choice if you're just getting back into the game.",
         images: [
             "assets/kashmir_willow_bat_1780413241395.png",
             "assets/images/bat-cover-main.jpg"
@@ -255,7 +255,7 @@ const products = [
             name: "बैट + कवर कॉम्बो",
             size: "SH + यूनिवर्सल",
             weight: "1350g कुल",
-            description: "हमारे प्रीमियम कश्मीर विलो बैट और प्रीमियम पैडेड बैट कवर को एक अपराजेय कॉम्बो कीमत पर प्राप्त करें। गुणवत्ता और सुरक्षा की तलाश करने वाले खिलाड़ियों के लिए बिल्कुल सही।"
+            description: "एक बैट को कवर की आवश्यकता होती है, इसलिए हमने आपके पैसे बचाने के लिए एक पैडेड कवर के साथ हमारे लोकप्रिय कश्मीर विलो को बंडल किया। यदि आप अभी खेल में वापस आ रहे हैं तो बढ़िया विकल्प।"
         }
     },
     {
@@ -271,7 +271,7 @@ const products = [
         badge: "Top Rated",
         size: "SH + Mens",
         weight: "1400g total",
-        description: "The ultimate striker's bundle. Includes the powerful Kashmir Willow Bat and ergonomic NS Pro Batting Gloves.",
+        description: "Our most popular bundle for regular weekend players. Grab the Kashmir Willow and our comfortable pro gloves together at a better price.",
         images: [
             "assets/kashmir_willow_bat_1780413241395.png",
             "assets/images/gloves-main.jpg"
@@ -282,7 +282,7 @@ const products = [
             name: "बैट + ग्लव्स कॉम्बो",
             size: "SH + पुरुष",
             weight: "1400g कुल",
-            description: "अंतिम स्ट्राइकर बंडल। इसमें शक्तिशाली कश्मीर विलो बैट और एर्गोनोमिक NS प्रो बैटिंग ग्लव्स शामिल हैं।"
+            description: "नियमित सप्ताहांत खिलाड़ियों के लिए हमारा सबसे लोकप्रिय बंडल। बेहतर कीमत पर कश्मीर विलो और हमारे आरामदायक प्रो दस्ताने एक साथ लें।"
         }
     },
     {
@@ -298,7 +298,7 @@ const products = [
         badge: "Best Seller",
         size: "Complete Set",
         weight: "1550g total",
-        description: "The complete package for serious cricketers. Includes the Kashmir Willow Bat, Pro Batting Gloves, and the Padded Bat Cover.",
+        description: "We put together this complete set so you don't have to hunt for individual items. You get the bat, gloves, and cover all at once. Need help sizing? Just WhatsApp us.",
         images: [
             "assets/kashmir_willow_bat_1780413241395.png",
             "assets/images/gloves-main.jpg",
@@ -310,7 +310,7 @@ const products = [
             name: "बैट + कवर + ग्लव्स पूरा किट",
             size: "पूरा सेट",
             weight: "1550g कुल",
-            description: "गंभीर क्रिकेटरों के लिए पूरा पैकेज। इसमें कश्मीर विलो बैट, प्रो बैटिंग ग्लव्स और पैडेड बैट कवर शामिल हैं।"
+            description: "हमने यह पूरा सेट एक साथ रखा है ताकि आपको अलग-अलग वस्तुओं की तलाश न करनी पड़े। आपको एक साथ बैट, दस्ताने और कवर मिलता है। आकार चुनने में सहायता चाहिए? बस हमें WhatsApp करें।"
         }
     }
 ];
